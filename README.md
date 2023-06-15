@@ -9,7 +9,7 @@ I hope this workshop will help you in your good work, and be careful not to use 
 
 
 * it working with Terminal and run with Nodejs(Runtime),
-* Fetch Data-folder from Classes and Make screenShot and export pdf
+* Fetch Data-folder from Html Classes and Make screenShot and export pdf
 
 
 
