@@ -1,0 +1,23 @@
+2023/06/15-20:34:40.660 6044 Reusing MANIFEST C:\Users\deaab\OneDrive\Desktop\Linkedin Bot\tmp\Default\Session Storage/MANIFEST-000001
+2023/06/15-20:34:40.661 6044 Recovering log #4
+2023/06/15-20:34:40.667 6044 Reusing old log C:\Users\deaab\OneDrive\Desktop\Linkedin Bot\tmp\Default\Session Storage/000004.log 
+2023/06/15-21:53:15.630 6050 Level-0 table #7: started
+2023/06/15-21:53:15.638 6050 Level-0 table #7: 33399 bytes OK
+2023/06/15-21:53:15.641 6050 Delete type=0 #4
+2023/06/15-21:56:30.632 6044 Level-0 table #9: started
+2023/06/15-21:56:30.640 6044 Level-0 table #9: 28316 bytes OK
+2023/06/15-21:56:30.642 6044 Delete type=0 #6
+2023/06/15-21:59:45.632 6050 Level-0 table #11: started
+2023/06/15-21:59:45.638 6050 Level-0 table #11: 27957 bytes OK
+2023/06/15-21:59:45.640 6050 Delete type=0 #8
+2023/06/15-21:59:45.642 6050 Compacting 4@0 + 0@1 files
+2023/06/15-21:59:45.648 6050 Generated table #12@0: 30 keys, 4870 bytes
+2023/06/15-21:59:45.648 6050 Compacted 4@0 + 0@1 files => 4870 bytes
+2023/06/15-21:59:45.649 6050 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/06/15-21:59:45.650 6050 Delete type=2 #3
+2023/06/15-21:59:45.650 6050 Delete type=2 #7
+2023/06/15-21:59:45.650 6050 Delete type=2 #9
+2023/06/15-21:59:45.650 6050 Delete type=2 #11
+2023/06/15-23:43:25.632 6050 Level-0 table #14: started
+2023/06/15-23:43:25.638 6050 Level-0 table #14: 28388 bytes OK
+2023/06/15-23:43:25.639 6050 Delete type=0 #10
