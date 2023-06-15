@@ -8,11 +8,11 @@ const puppeteer = require('puppeteer');
   });
   const page = await browser.newPage();
 
-  await page.goto(' let your Link There ',{timeout:3000000});
+  await page.goto(' let your Link There like https://frontend-react-brown.vercel.app/home ',{timeout:3000000});
 
-  const handels = await page.$$('write Html Classes here like the Big-div ( .s-search-results .sg-row)');
+  const handels = await page.$$('write Html Classes here like the Big-div ++ in this case change please classes Notworking  just example ++  ( .s-search-results .sg-row)');
   for(const handel of handels){
-    const singleweet = await page.evaluate(el.querySelector(" write querySelector for Html Elemant // children // Like  h2 > a > span").textContent, handel)
+    const singleweet = await page.evaluate(el.querySelector(" write querySelector for Html Elemant // children // ++ in this case change please classes Notworking  just example ++ Like  h2 > a > span").textContent, handel)
     console.log(singleweet)
   }
   // Some testing and export pdf file and screenshot //
